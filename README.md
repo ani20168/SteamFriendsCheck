@@ -1,5 +1,8 @@
 # SteamFriendsCheck
+
 這個網站可以檢查是誰刪了你的Steam好友，不然有時候看好友名單少了人都不知道是誰
+
+https://steam-friends-check.ani20168.com/
 
 ![image](https://github.com/user-attachments/assets/0f647e1a-d0a0-4acf-a8ac-8fba5e0a711d)
 
