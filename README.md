@@ -30,5 +30,5 @@ After your first visit, the website will regularly track your friends list. If s
 ### Issues
 1.如果有bug，可以直接在這個repo回報
 
-2.如果持續收到"獲取好友資訊失敗，請在試一次"的錯誤頁面，代表伺服器所使用的Steam API(也就是我的)，受到流量限制了，請過一陣子後再回來看看
+2.如果持續收到"獲取好友資訊失敗，請在試一次"的錯誤頁面，代表伺服器所使用的Steam API(也就是我的)，受到流量限制了，請過一陣子後再回來看看，之後預計會加入好友名單的快取，現在的請求量很容易被ban
 
