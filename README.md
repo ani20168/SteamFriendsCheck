@@ -10,7 +10,7 @@ https://steam-friends-check.ani20168.com/
 
 ### 特色
 - 在首次登入後，網站每隔6小時會查詢一次你的好友名單，追蹤好友名單的變化
-- 你手動造訪網頁的時候會立即進行一次查詢
+- 你造訪網頁的時候會立即進行一次查詢
 - 如果找到了移除你的好友，則會以清單的形式列在網站上，最久保留30天
 
 ### 使用方式
@@ -21,7 +21,7 @@ This website helps you check who removed you from their Steam friends list. Othe
 
 ### Features
 - After the first login, the website checks your friends list every 6 hours, tracking any changes.
-- When you manually visit the webpage, it will immediately perform a check.
+- When you visit the webpage, it will immediately perform a check.
 - If it finds someone who removed you, they will be listed on the website, with records kept for up to 30 days.
 
 ### How to Use
