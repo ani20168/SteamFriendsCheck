@@ -19,9 +19,8 @@ https://steam-friends-check.ani20168.com/
 This website helps you check who removed you from their Steam friends list. Otherwise, sometimes you might not know who disappeared from your friends list.
 
 ### Features
-- After the first login, the website checks your friends list every 6 hours, tracking any changes.
-- When you visit the webpage, it will immediately perform a check.
-- If it finds someone who removed you, they will be listed on the website, with records kept for up to 30 days.
+- After the first login, the website continuously queries your friend list and tracks any changes to it.
+- If it finds someone who removed you, they will be listed on the website, with records kept for up to 180 days.
 
 ### How to Use
 After your first visit, the website will regularly track your friends list. If someone removes you, simply come back to this page to check (I recommend adding it to your browser bookmarks).
