@@ -14,6 +14,7 @@ https://steam-friends-check.ani20168.com/
 
 ### 使用方式
 第一次進入網站後就會開始定期追蹤，之後如果發現有人刪了你的話，就回來看看這個網頁就好(建議加入瀏覽器書籤)
+務必將你的好友名單隱私設定設為"公開"，否則服務無法查詢私人的好友名單
 
 ****
 This website helps you check who removed you from their Steam friends list. Otherwise, sometimes you might not know who disappeared from your friends list.
